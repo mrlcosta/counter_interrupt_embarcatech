@@ -92,7 +92,6 @@ static const uint8_t numeros_matriz[10][QTD_LEDS] = {
 
 void initialize_config()
 {
-    stdio_init_all(); // Inicializa o sistema de entrada/saída padrão
     // inicia e configura o led vermelho
     gpio_init(LED_VERM);
     gpio_set_dir(LED_VERM, GPIO_OUT);
