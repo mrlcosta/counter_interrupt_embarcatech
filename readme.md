@@ -31,3 +31,7 @@ Este projeto utiliza a placa **BitDogLab** para controlar uma **matriz de LEDs 5
 - O número exibido na **matriz de LEDs 5x5** é alterado a cada pressionamento dos botões A e B.
 - O formato de exibição dos números é fixo, com os LEDs iluminando-se para formar os números de 0 a 9.
 
+
+## Vídeo Demonstrativo:
+
+[![Assista ao vídeo demonstrativo](https://i.ytimg.com/vi/m4CvZlHNlw0/hq720_2.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAIhC0AEB2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDEAiMRf0h5bnH_93G-STIvsmkGAQ)](https://www.youtube.com/shorts/m4CvZlHNlw0)
